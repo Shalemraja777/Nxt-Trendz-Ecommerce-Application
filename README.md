@@ -8,8 +8,8 @@ Implemented Nxt Trendz application which is a clone for ECommerce applications l
 
 Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
 ### Login Credentials
-<p> User Name : rahul </p>
-<p> Password : rahul@2021 </p>
+<p> User Name : raja </p>
+<p> Password : raja@2021 </p>
 
 
 ### Refer to the video below:
