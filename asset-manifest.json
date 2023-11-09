@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Nxt-Trendz-Ecommerce-Application/static/css/main.70901a99.chunk.css",
-    "main.js": "/Nxt-Trendz-Ecommerce-Application/static/js/main.db259684.chunk.js",
-    "main.js.map": "/Nxt-Trendz-Ecommerce-Application/static/js/main.db259684.chunk.js.map",
+    "main.js": "/Nxt-Trendz-Ecommerce-Application/static/js/main.0d22d467.chunk.js",
+    "main.js.map": "/Nxt-Trendz-Ecommerce-Application/static/js/main.0d22d467.chunk.js.map",
     "runtime-main.js": "/Nxt-Trendz-Ecommerce-Application/static/js/runtime-main.63223fa7.js",
     "runtime-main.js.map": "/Nxt-Trendz-Ecommerce-Application/static/js/runtime-main.63223fa7.js.map",
     "static/js/2.8bd9f1bd.chunk.js": "/Nxt-Trendz-Ecommerce-Application/static/js/2.8bd9f1bd.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.63223fa7.js",
     "static/js/2.8bd9f1bd.chunk.js",
     "static/css/main.70901a99.chunk.css",
-    "static/js/main.db259684.chunk.js"
+    "static/js/main.0d22d467.chunk.js"
   ]
 }
